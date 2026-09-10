@@ -79,7 +79,7 @@
       "summary": "",
       "highlights": [
         "Deforestation monitoring in Zambia and Mozambique using satellite time-series.",
-        "Organization of training workshop for forest monitoring using satellite data for researchers from BioCarbon Partners.",
+        "Organization of training workshop for forest monitoring using satellite data for researchers.",
         "Workflow development in Google Earth Engine Python using Sentinel-1, Sentinel-2, and GEDI data."
       ]
     }
@@ -175,7 +175,7 @@
     },
 	{
       "institution": "Master of Science - University of Freiburg, Germany",
-      "location": "Environmental Modelling and Data Science (grade: 1,6)",
+      "location": "Environmental Modelling and GIS (grade: 1,6)",
       "url": "https://uni-freiburg.de/en/studies/degree-programmes/degree-programme/393/#Academic%20content"
     },
 	{
@@ -229,5 +229,36 @@
     { "language": "French", "fluency": "Intermediate (B2)" },
     { "language": "Italian, Spanish", "fluency": "Basic (A2)" }
   ],
-  "references": []
+  "references": [
+    {
+      "name": "World Biodiversity Forum 2026, Davos (Switzerland)",
+      "relation": "Experimental enhancement of forest structural heterogeneity can promote biodiversity in managed Central European forests – A remote sensing perspective."
+    },
+    {
+      "name": "54th Annual Meeting of the Ecological Society of Germany, Austria and Switzerland (GfÖ) 2025, Würzburg (Germany)",
+      "relation": "Identifying Forest Structure-Biodiversity Relationships  in the Context of Experimental Silvicultural Treatments Based on Multi-source Remote Sensing and Multi-taxa Biodiversity Data."
+    },
+    {
+      "name": "ESA Living Planet Symposium 2025, Vienna (Austria)",
+      "relation": "Multi-Annual Forest Structure Characterization in Germany-Novel Products and Analysis Based on GEDI, Sentinel-1 and Sentinel-2 Data."
+    },
+	{
+      "name": "ESA Living Planet Symposium 2025, Vienna (Austria)",
+      "relation": "Spaceborne and In-Situ Remote Sensing for Monitoring Enhanced Forest Structural Complexity Promoting Biodiversity in Central European Forests."
+    },
+    {
+      "name": "Bialowieza Ecology Conference 2024, Bialowieza (Poland)",
+      "relation": "Analyzing Enhanced Forest Structural Complexity from In-Situ and Spaceborne Remote Sensing."
+    },
+    {
+      "name": "Copernicus Netzwerkkonferenz 2023, Braunschweig (Germany)",
+      "relation": "Spectral Diversity Methods of Remote Sensing for Monitoring Forest Biodiversity."
+    },
+    {
+      "name": "International Symposium on Remote Sensing of Environment (ISRSE) 2023, Antalya (Turkey)",
+      "relation": "Characterizing Recent Forest Structure Dynamics in Germany Based on GEDI, Sentinel-1 and Sentinel-2."
+    }
+  ]
+  
+  
 }

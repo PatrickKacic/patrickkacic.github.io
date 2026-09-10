@@ -171,7 +171,24 @@
             </section>
           {% endif %}
 
-          {% if volunteer_experience %}
+          {% if references %}
+            <section>
+              <h2 class="section-heading">Selected Conference Presentations</h2>
+              {% for ref in references %}
+                <section>
+                  {% if ref.name %}<h3>{{ ref.name }}</h3>{% endif %}
+                  {% if ref.relation %}<p class="section-label">{{ ref.relation }}</p>{% endif %}
+                  {% if ref.reference %}
+                    <blockquote>
+                      {{ ref.reference }}
+                    </blockquote>
+                  {% endif %}
+                </section>
+              {% endfor %}
+            </section>
+          {% endif %}
+		  
+		  {% if volunteer_experience %}
             <section>
               <h2 class="section-heading">Internships</h2>
               {% for vol in volunteer_experience %}
@@ -191,23 +208,6 @@
                     <ul>
                       {% for highlight in vol.highlights %}<li>{{ highlight }}</li>{% endfor %}
                     </ul>
-                  {% endif %}
-                </section>
-              {% endfor %}
-            </section>
-          {% endif %}
-
-          {% if references %}
-            <section>
-              <h2 class="section-heading">References</h2>
-              {% for ref in references %}
-                <section>
-                  {% if ref.name %}<h3>{{ ref.name }}</h3>{% endif %}
-                  {% if ref.relation %}<p class="section-label">{{ ref.relation }}</p>{% endif %}
-                  {% if ref.reference %}
-                    <blockquote>
-                      {{ ref.reference }}
-                    </blockquote>
                   {% endif %}
                 </section>
               {% endfor %}
