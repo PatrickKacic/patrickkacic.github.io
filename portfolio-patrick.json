@@ -1,0 +1,233 @@
+{
+  "name": "Patrick Kacic",
+  "label": "Environmental Data Scientist",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "patrick.kacic@yahoo.de",
+    "phone": "",
+    "location": "Freiburg im Breisgau, Germany"
+  },
+  "summary": "Data scientist with a focus on environmental data to study ecosystem dynamics, such as forest disturbances, forest structure dynamics, structure-biodiversity relationships.",
+  "url": "https://patrick.kacic@github.io",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patrick-kacic-0393b0212/",
+      "svg_path": ""
+    },
+    {
+      "label": "Researchgate",
+      "url": "https://www.researchgate.net/profile/Patrick-Kacic?ev=hdr_xprf",
+      "svg_path": ""
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-4538-8286",
+      "svg_path": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "German Aerospace Center (DLR), Munich (Germany)",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.dlr.de/en/eoc/about-us/german-remote-sensing-data-center/land-surface-dynamics/forest-ecosystems",
+      "start_date": "12/2025",
+      "end_date": "present",
+      "summary": "",
+      "highlights": [
+        "Integrating deep learning algorithms for multi-annual forest structure modeling.",
+        "Sentinel-2, GEDI, and ALS data processing on HPDA cluster.",
+        "Proposal writing, scientific publishing (n=7), student supervision and project administration."
+      ]
+    },
+    {
+      "company": "University of Würzburg (Germany)",
+      "position": "Doctoral researcher",
+      "url": "https://www.uni-wuerzburg.de/en/beta-for/",
+      "start_date": "09/2022",
+      "end_date": "11/2025",
+      "summary": "",
+      "highlights": [
+        "Developed machine learning workflow for multi-annual forest structure prediction using Sentinel-1, Sentinel-2, and GEDI data.",
+        "Review on forest biodiversity monitoring based on satellite data.",
+        "Satellite time-series analyses for forest structure change detection in the context of forest management.",
+		"Ground- and spaceborne-based monitoring of forest structure for biodiversity assessment.",
+		"Multi-source Earth Observation data processing on HPDA cluster using Python.",
+		"Proposal writing, scientific publishing (n=9), student supervision, field work and project administration."
+      ]
+    },
+    {
+      "company": "German Aerospace Center (DLR), Munich (Germany)",
+      "position": "Researcher",
+      "url": "https://www.dlr.de/en/eoc/about-us/german-remote-sensing-data-center/land-surface-dynamics/forest-ecosystems",
+      "start_date": "03/2022",
+      "end_date": "08/2022",
+      "summary": "",
+      "highlights": [
+        "Deforestation monitoring in Paraguay using Sentinel-1 and -2 data.",
+		"Python-based time-series analyses in Google Earth Engine.",
+        "Organization of training workshop for forest monitoring using satellite data for universitary researchers, federal employees and NGO workers from Paraguay.",
+        "Project administration, scientific publishing (n=2) and student supervision."
+      ]
+    },
+    {
+      "company": "Biocarbon Partners, Lusaka (Zambia)",
+      "position": "Data scientist",
+      "url": "https://bcp.earth/",
+      "start_date": "01/2022",
+      "end_date": "02/2022",
+      "summary": "",
+      "highlights": [
+        "Deforestation monitoring in Zambia and Mozambique using satellite time-series.",
+        "Organization of training workshop for forest monitoring using satellite data for researchers from BioCarbon Partners.",
+        "Workflow development in Google Earth Engine Python using Sentinel-1, Sentinel-2, and GEDI data."
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "German Aerospace Center (DLR), Munich (Germany)",
+      "position": "Master thesis",
+      "url": "https://www.dlr.de/en/eoc/about-us/german-remote-sensing-data-center/land-surface-dynamics/forest-ecosystems",
+      "start_date": "06/2021",
+      "end_date": "12/2021",
+      "summary": "Deforestation monitoring and forest structure analyses using GEDI, Sentinel-1 and -2."
+    },
+    {
+      "organization": "University of Freiburg (Germany)",
+      "position": "Student assistant",
+      "url": "https://uni-freiburg.de/enr-wwd/research/",
+      "start_date": "01/2020",
+      "end_date": "09/2020",
+      "summary": "Tree growth analyses in the dendrochronology laboratory."
+    },
+    {
+      "organization": "Eurac Research, Bolzano (Italy)",
+      "position": "Bachelor thesis",
+      "url": "https://www.eurac.edu/de/institutes-centers/institut-fuer-erdbeobachtung",
+      "start_date": "03/2019",
+      "end_date": "06/2019",
+      "summary": "Land cover analyses under alpine disturbances using multi-decadal Landsat time-series."
+    },
+    {
+      "organization": "Regional Synergie, Innsbruck (Austria)",
+      "position": "Intern",
+      "url": "https://regionalsynergie.com/",
+      "start_date": "03/2019",
+      "end_date": "06/2019",
+      "summary": "Online cartography of infrastructure data in the Alps."
+    },
+    {
+      "organization": "University of Heidelberg (Germany)",
+      "position": "Student assistant",
+      "url": "https://www.geog.uni-heidelberg.de/en/institute/physical-geography/geomorphology-and-soil-geography/laboratory-for-geomorphology-and-geoecology",
+      "start_date": "11/2017",
+      "end_date": "08/2018",
+      "summary": "Laboratory assistant for soil and vegetation analyses, including field work."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Forest structures related to biodiversity can be assessed using remote sensing - Evidence from a large-scale experiment",
+      "summary": "Kacic et al. 2026, Ecological Informatics (under review).",
+      "url": "https://elib.dlr.de/225284/"
+    },{
+      "title": "Mapping pan-European forest canopy cover loss at monthly resolution using Sentinel-2 and Landsat optical data",
+      "summary": "Thonfeld, ... Kacic et al. 2026, Remote Sensing of Environment (under review).",
+      "url": "https://dx.doi.org/10.2139/ssrn.7213890"
+    },
+	{
+      "title": "The positive effects of canopy openness across post-disturbance management on insect diversity",
+      "summary": "Kortmann, ... Kacic et al. 2026, Biological Conservation.",
+      "url": "https://doi.org/10.1016/j.biocon.2025.111647"
+    },
+	{
+      "title": "Characterizing local forest structural complexity based on multi-platform and -sensor derived indicators",
+      "summary": "Kacic et al. 2025, Ecological Indicators.",
+      "url": "https://doi.org/10.1016/j.ecolind.2025.113085"
+    },
+	{
+      "title": "Assessing experimental silvicultural treatments enhancing structural complexity in a central European forest – BEAST time-series analysis based on Sentinel-1 and Sentinel-2",
+      "summary": "Kacic et al. 2024, Remote Sensing in Ecology and Conservation.",
+      "url": "https://doi.org/10.1002/rse2.386"
+    },
+	{
+      "title": "Forest Structure Characterization in Germany: Novel Products and Analysis Based on GEDI, Sentinel-1 and Sentinel-2 Data",
+      "summary": "Kacic et al. 2023, Remote Sensing.",
+      "url": "https://doi.org/10.3390/rs15081969"
+    },
+	{
+      "title": "Impacts of national governments on the forest cover loss in Paraguayan Chaco between 1999 and 2021",
+      "summary": "Salinas, ... Kacic et al. 2023, Journal of Nature Conservation.",
+      "url": "https://doi.org/10.1016/j.jnc.2023.126472"
+    },
+	{
+      "title": "Forest Biodiversity Monitoring Based on Remotely Sensed Spectral Diversity—A Review",
+      "summary": "Kacic et al. 2022, Remote Sensing.",
+      "url": "https://doi.org/10.3390/rs14215363"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dr. rer. nat. - University of Würzburg, Germany",
+      "location": "Multi-Sensor Remote Sensing of Forest Biodiversity (grade: eximia cum laude)",
+      "url": "https://www.geographie.uni-wuerzburg.de/en/earthobservation/"
+    },
+	{
+      "institution": "Master of Science - University of Freiburg, Germany",
+      "location": "Environmental Modelling and Data Science (grade: 1,6)",
+      "url": "https://uni-freiburg.de/en/studies/degree-programmes/degree-programme/393/#Academic%20content"
+    },
+	{
+      "institution": "Bachelor of Science - University of Heidelberg, Germany",
+      "location": "Geography (grade: 1,5)",
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/geography/geography-bachelor-100"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Google Earth Engine, QGIS",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Git, Slurm (HPDA), Linux",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "R, Inkscape",
+      "proficiency": 70,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/bikepacking.jpg",
+          "caption": "Bikepacking"
+        }
+      ]
+    },
+	{
+      "name": "",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/hut.jpg",
+          "caption": "Alpine hut renovation"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    { "language": "German", "fluency": "Native" },
+    { "language": "English", "fluency": "Fluent (C1)" },
+    { "language": "French", "fluency": "Intermediate (B2)" },
+    { "language": "Italian, Spanish", "fluency": "Basic (A2)" }
+  ],
+  "references": []
+}
