@@ -192,12 +192,12 @@
     },
     {
       "name": "Git, Slurm (HPDA), Linux",
-      "proficiency": 85,
+      "proficiency": 80,
       "proficiency_label": "Advanced"
     },
     {
       "name": "R, Inkscape",
-      "proficiency": 70,
+      "proficiency": 60,
       "proficiency_label": "Comfortable"
     }
   ],
