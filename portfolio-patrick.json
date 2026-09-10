@@ -7,7 +7,7 @@
     "phone": "",
     "location": "Freiburg im Breisgau, Germany"
   },
-  "summary": "Data scientist with a focus on environmental data to study ecosystem dynamics, such as forest disturbances, forest structure dynamics, structure-biodiversity relationships.",
+  "summary": "Data scientist with a focus on environmental data to study ecosystem dynamics, such as disturbances, structure dynamics, and structure-biodiversity relationships.",
   "url": "https://patrick.kacic@github.io",
   "social_links": [
     {
@@ -37,7 +37,7 @@
       "highlights": [
         "Integrating deep learning algorithms for multi-annual forest structure modeling.",
         "Sentinel-2, GEDI, and ALS data processing on HPDA cluster.",
-        "Proposal writing, scientific publishing (n=7), student supervision and project administration."
+        "Proposal writing, scientific publishing, student supervision, and project administration."
       ]
     },
     {
@@ -48,12 +48,11 @@
       "end_date": "11/2025",
       "summary": "",
       "highlights": [
-        "Developed machine learning workflow for multi-annual forest structure prediction using Sentinel-1, Sentinel-2, and GEDI data.",
+        "Machine learning for multi-annual forest structure modling using Sentinel-1, Sentinel-2, and GEDI.",
         "Review on forest biodiversity monitoring based on satellite data.",
-        "Satellite time-series analyses for forest structure change detection in the context of forest management.",
+        "Satellite time-series analyses for forest structure monitoring in the context of forest management.",
 		"Ground- and spaceborne-based monitoring of forest structure for biodiversity assessment.",
-		"Multi-source Earth Observation data processing on HPDA cluster using Python.",
-		"Proposal writing, scientific publishing (n=9), student supervision, field work and project administration."
+		"Proposal writing, scientific publishing, student supervision, field work, and project administration."
       ]
     },
     {
@@ -65,9 +64,8 @@
       "summary": "",
       "highlights": [
         "Deforestation monitoring in Paraguay using Sentinel-1 and -2 data.",
-		"Python-based time-series analyses in Google Earth Engine.",
-        "Organization of training workshop for forest monitoring using satellite data for universitary researchers, federal employees and NGO workers from Paraguay.",
-        "Project administration, scientific publishing (n=2) and student supervision."
+        "Organization of training workshop about forest monitoring using satellite data for universitary researchers, federal employees and NGO workers from Paraguay.",
+        "Project administration, scientific publishing, and student supervision."
       ]
     },
     {
@@ -79,8 +77,8 @@
       "summary": "",
       "highlights": [
         "Deforestation monitoring in Zambia and Mozambique using satellite time-series.",
-        "Organization of training workshop for forest monitoring using satellite data for researchers.",
-        "Workflow development in Google Earth Engine Python using Sentinel-1, Sentinel-2, and GEDI data."
+        "Forest structure analyses using Sentinel-1, Sentinel-2, and GEDI data.",
+        "Organization of training workshop about forest monitoring using satellite data for researchers."
       ]
     }
   ],
@@ -175,12 +173,12 @@
     },
 	{
       "institution": "Master of Science - University of Freiburg, Germany",
-      "location": "Environmental Modelling and GIS (grade: 1,6)",
+      "location": "Environmental Modelling and GIS (grade: 1.6)",
       "url": "https://uni-freiburg.de/en/studies/degree-programmes/degree-programme/393/#Academic%20content"
     },
 	{
       "institution": "Bachelor of Science - University of Heidelberg, Germany",
-      "location": "Geography (grade: 1,5)",
+      "location": "Geography (grade: 1.5)",
       "url": "https://www.uni-heidelberg.de/en/study/all-subjects/geography/geography-bachelor-100"
     }
   ],
@@ -191,7 +189,7 @@
       "proficiency_label": "Expert"
     },
     {
-      "name": "Git, Slurm (HPDA), Linux",
+      "name": "Git, Slurm (HPDA), Linux, VS Code",
       "proficiency": 80,
       "proficiency_label": "Advanced"
     },
@@ -208,7 +206,7 @@
       "images": [
         {
           "img_path": "portfolio_media/bikepacking.jpg",
-          "caption": "Bikepacking"
+          "caption": "Bikepacking through Europe."
         }
       ]
     },
@@ -218,7 +216,17 @@
       "images": [
         {
           "img_path": "portfolio_media/hut.jpg",
-          "caption": "Alpine hut renovation"
+          "caption": "Renovating an alpine hut in the Italian Alps."
+        }
+      ]
+    },
+	{
+      "name": "",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/workshop.jpg",
+          "caption": "Organizing outdoor workshops."
         }
       ]
     }
