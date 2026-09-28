@@ -7,22 +7,32 @@
     "phone": "",
     "location": "Freiburg im Breisgau, Germany"
   },
-  "summary": "Data scientist with a focus on environmental data to study ecosystem dynamics, such as disturbances, structure dynamics, and structure-biodiversity relationships.",
+  "summary": "Data scientist with a focus on environmental data to study ecosystem dynamics, such as disturbances, structural changes, and structure-biodiversity relationships.",
   "url": "https://patrick.kacic@github.io",
   "social_links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/PatrickKacic",
+      "svg_path": ""
+    },
+	{
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=ENQ7uMAAAAAJ&hl=de",
+      "svg_path": ""
+    },
     {
       "label": "LinkedIn",
       "url": "https://www.linkedin.com/in/patrick-kacic-0393b0212/",
       "svg_path": ""
     },
     {
-      "label": "Researchgate",
-      "url": "https://www.researchgate.net/profile/Patrick-Kacic?ev=hdr_xprf",
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-4538-8286",
       "svg_path": ""
     },
     {
-      "label": "ORCID",
-      "url": "https://orcid.org/0000-0002-4538-8286",
+      "label": "Researchgate",
+      "url": "https://www.researchgate.net/profile/Patrick-Kacic?ev=hdr_xprf",
       "svg_path": ""
     }
   ],
