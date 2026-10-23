@@ -9,7 +9,7 @@ redirect_from:
 
 <br/><img src='/images/trees.jpg' width='755' height='250'>
 
-As a scientist, I enjoy analyzing environmental datasets to study ecosystem dynamics. With a focus on time-series observations from various Earth Observation (EO) sensors, 
+Hey there, I am Patrick! I enjoy analyzing environmental datasets to study ecosystem dynamics. With a focus on time-series observations from various Earth Observation (EO) sensors, 
 I am fascinated by the perspective from space to monitor natural and anthropogenic drivers of environmental change in the context of the global climate crisis. :earth_africa:
 
 I am currently employed at the German Aerospace Center (DLR) as a postdoctoral researcher in the team [Forest Ecosystems](https://www.dlr.de/en/eoc/about-us/german-remote-sensing-data-center/land-surface-dynamics/forest-ecosystems) 
