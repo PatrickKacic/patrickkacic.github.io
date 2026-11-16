@@ -58,16 +58,30 @@ Internships
 
 Engagement
 ======
-* 03/2025 - 05/2026: Homework support and integration activities for a migrant pupil (Caritas Garmisch-Partenkirchen)
+* 11/2026: Training on **eXplainable AI** models organized by Helmholtz Information & Data Science Academy (HIDA)
+
+* 11/2026: Training on **Linux shell and Git** organized by Helmholtz Information & Data Science Academy (HIDA)
+
+* 11/2026: Training on **transformer models** organized by Helmholtz Information & Data Science Academy (HIDA)
+
+* 11/2026: Training on **deep learning** models organized by Helmholtz Information & Data Science Academy (HIDA)
+
+* 10/2026: **Media training** (interviews, statements, press articles) at the German Aerospace Center (DLR)
+
+* 09/2026: Training on **Git and GitLab** at the German Aerospace Center (DLR)
+
+* 03/2025 - 05/2026: **Homework support and integration** activities for a migrant pupil (Caritas Garmisch-Partenkirchen)
   
-* 04/2025: Professional development course on peer case consultation for doctoral researchers (University of Würzburg)
+* 04/2025: Professional development course on **peer case consultation for doctoral researchers** (University of Würzburg)
 
-* 01/2025: Professional development course on building research careers (University of Würzburg)
+* 01/2025: Professional development course on **building research careers** (University of Würzburg)
 
-* 08/2023: First aid training at the German Aerospace Center (DLR)
+* 08/2023: **First aid training** at the German Aerospace Center (DLR)
 
-* 03/2023: Professional development course on mental health in the workplace (University of Würzburg)
+* 03/2023: Professional development course on **mental health in the workplace** (University of Würzburg)
 
-* 04/2018 - 07/2018: Environmental education activities for pupils (City of Mannheim)
+* 09/2022 - 04/2026: **Representative of doctoral students** in BETA-FOR project funded by the German Research Foundation (DFG)
 
-* 11/2014 - 02/2015: Federal Volunteer Service (Bundesfreiwilligendienst), a workshop for people with intellectual disabilities (Ludwigshafener Werkstätten)
+* 04/2018 - 07/2018: **Environmental education activities** for pupils (City of Mannheim)
+
+* 11/2014 - 02/2015: **Federal Volunteer Service** (Bundesfreiwilligendienst), a workshop for people with intellectual disabilities (Ludwigshafener Werkstätten)
